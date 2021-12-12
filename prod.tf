@@ -6,7 +6,7 @@ variable "whitelist" {
 
 variable "centos_image_id" {
   type = string
-  default = "ami-0affd4508a5d2481b"
+  default = "ami-08b6d44b4f6f7b279"
 }
 
 provider "aws" {
